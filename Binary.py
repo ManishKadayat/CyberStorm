@@ -1,5 +1,5 @@
 ##################################################################
-# Peyton Page
+# Peyton Page 
 # CYEN 301
 # Assignment #1: Binary Decoder
 #
