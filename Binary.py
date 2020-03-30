@@ -26,7 +26,6 @@ def decode(binary, n):
 	while ( i < len(binary)):
 		byte = binary[i:i+n]
 		byte = int(byte, 2)
-		print(byte, chr(byte))	
 #		If the byte is a backspace, remove the last character in text.
 		if (byte == 8):
 			text = text[:-1]
