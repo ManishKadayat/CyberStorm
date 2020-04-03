@@ -1,0 +1,12 @@
+NAME: Peyton Page
+DATE: 4/3/20
+ASSIGNMENT: Challenge 1
+
+
+"In view of your health, nothing. You are yourself aware that you will soon have to answer for your deed at a higher court than the Assizes. I will keep your confession, and if McCarthy is condemned I shall be forced to use it. If not, it shall never be seen by mortal eye; and your secret, whether you be alive or dead, shall be safe with us."
+
+TIME DECODED: 11:30 AM
+
+I will include my modified FTP code.
+
+My process involved going to jeangourd.com and saving the it-begins-here.txt file. This was then decoded using my original Binary.py, which gave me an ftp server and port, a username "valkyrie", and an encrypted password with a key. Using my original Vigenere.py I was able to decrypt the password to "chooseroftheslain". From there I went into ftp server and, after changing to passive mode, manually navigated through the folders to find the folder containing the hidden message (.secretstorage/.folder2/.howaboutonemore"). I then changed my fetch.py code to login to jeangourd.com on port 8008 using the correct username and password. I also told it what folder to look in. From there I put the quote into this file.
