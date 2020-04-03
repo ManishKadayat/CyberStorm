@@ -9,3 +9,7 @@ Code for CYEN 301
 3/30 - Submitted Vigenere.py
 
 3/30 - Submitted fetch.py
+
+4/2 - Completed Challenge 1
+	- Submitted challenge-fetch.py
+	- Submitted my-results.txt
