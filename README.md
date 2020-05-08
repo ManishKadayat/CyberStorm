@@ -17,3 +17,9 @@ Code for CYEN 301
 	- Submitted my-results.txt
 
 4/21 - Submitted Client.py
+
+5/8 - Submitted timelock.py
+
+5/8 - Submitted xorCrypto.py
+
+5/8 - Submitted Steg.py
