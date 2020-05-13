@@ -1,4 +1,4 @@
-# CyberStorm
+# CyberStorm - Wyvern
 Code for CYEN 301
 
 3/30 - Submitted Binary.py
