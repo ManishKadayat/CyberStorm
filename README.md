@@ -22,3 +22,5 @@ Code for CYEN 301
 5/8 - Submitted xorCrypto.py
 
 5/8 - Submitted Steg.py
+
+5/13 - Invited the rest of Wyvern to collaborate on this repo.
