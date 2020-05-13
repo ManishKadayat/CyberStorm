@@ -1,6 +1,10 @@
 # CyberStorm - Wyvern
-Code for CYEN 301
+## Code for CYEN 301
 
+### This is the Repository used to store code for Team 4 - Wyvern.
+
+
+### Below is Peyton's tracking of assignment Submissions, ignore.
 3/30 - Submitted Binary.py
 
 3/30 - Submitted Infection PDF.pdf
